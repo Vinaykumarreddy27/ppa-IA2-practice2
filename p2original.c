@@ -1,4 +1,4 @@
-[0:30 pm, 08/02/2022] Rohit Sharma ( Vinay)❤️💞: #include<stdio.h>
+ #include<stdio.h>
 int input_side()
 {
   int a;
